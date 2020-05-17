@@ -1,4 +1,4 @@
-# instagram-business-tracker
+# instagram-business-Bot
 
 (incomplete currently)
 
